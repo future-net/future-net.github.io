@@ -1179,3 +1179,24 @@ nav a:active{
 }
 
 
+/*-------------------PAGE 6 --------------------------------*/
+
+#missy-dancing{
+	position: absolute;
+	top: 20%;
+	float: left;
+	width: 50%;
+
+}
+
+#temp-text{
+	position: absolute;
+	float: right;
+	color: hotpink;
+	text-align: center;
+	width: 50%;
+	top: 20%;
+	right: 0;
+
+}
+
